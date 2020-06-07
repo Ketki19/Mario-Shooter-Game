@@ -6,6 +6,7 @@ A simple and clean GUI is programmed for easy gameplay. The gameplay design with
 ## Pre-Requisites:
 * pygame library
 
+
 ## Output:
 <a href="https://github.com/Ketki19/Mario-Shooter-Game/blob/master/Assests/Mg.gif"><img src="https://github.com/Ketki19/Mario-Shooter-Game/blob/master/Assests/Mg.gif" title="Output"/></a>
 
