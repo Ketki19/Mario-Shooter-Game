@@ -5,6 +5,7 @@ A simple and clean GUI is programmed for easy gameplay. The gameplay design with
 
 ## Pre-Requisites:
 * pygame library
+* Standard 
 
 
 ## Output:
